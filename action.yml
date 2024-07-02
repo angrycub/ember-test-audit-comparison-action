@@ -1,6 +1,6 @@
 name: Ember Test Audit comparison
 description: Compare runs of Ember Test Audit
-author: Buck Doyle
+author: Charlie Voiselle
 branding:
   icon: clock
   color: green
