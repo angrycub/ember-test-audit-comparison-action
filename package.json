@@ -1,13 +1,13 @@
 {
   "name": "ember-test-audit-comparison-action",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "A GitHub Action to compare runs of Ember Test Audit",
   "main": "index.js",
   "scripts": {
     "test": "mocha -r esm"
   },
-  "repository": "https://github.com/backspace/ember-test-audit-comparison-action",
-  "author": "Buck Doyle",
+  "repository": "https://github.com/angrycub/ember-test-audit-comparison-action",
+  "author": "Charlie Voiselle",
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.9.1"
